@@ -33,7 +33,7 @@ Ação: Executar uma sequência contínua e ritmada do nó quadrado ou do nó es
 Dica Prática: Acompanhe o movimento do fio guia cruzando o centro e sinta o toque dos dedos ao ajustar a firmeza exata de cada amarra. Mantenha um ritmo fluido e constante.
 Explicação: A repetição de padrões e nós induz o estado de flow (fluxo), no qual a ação e a consciência se fundem e o tempo parece passar mais devagar. Essa imersão acalma a amígdala (região cerebral associada ao estresse) e reduz temporariamente a atividade do córtex pré-frontal responsável pela autocrítica e preocupações
 
-### Teste 2: Criando um Glossário
+### Teste 3: Criando um Glossário
 * **Prompt Inicial:** O que é meditação ativa, mindfulness e flow segundo os textos?
 * **A "Cicatriz":** Mencionou apenas 3 termos com explicações imensas, saindo do contexto que foi solicitado, parecendo um copia e cola dos textos bases.
 * **O Refinamento:** Aja como um professor. Analise os documentos e crie um glossário com os 5 principais termos que ligam o artesanato ao bem-estar mental (por exemplo: Mindfulness, Estado de Flow, Meditação Ativa, etc). Formate a resposta com o Nome do termo em negrito, seguido de uma explicação simples de no máximo 2 linhas para cada.
