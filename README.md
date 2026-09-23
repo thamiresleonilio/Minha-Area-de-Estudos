@@ -42,15 +42,21 @@ Explicação: A repetição de padrões e nós induz o estado de flow (fluxo), n
 ### 2. Glossário
 
 **Mindfulness (Atenção Plena):** Prática deliberada de focar a consciência nas sensações, movimentos e texturas do trabalho manual no momento presente, afastando distrações e julgamentos.
+
 **Estado de Flow (Fluxo):** Imersão profunda na atividade em que a ação e a consciência se fundem, a percepção do tempo se distorce e o monitoramento autocrítico interno é desativado.
+
 **Meditação Ativa:** Processo de desaceleração da mente induzido pela repetição cadenciada e ritmada dos movimentos manuais, servindo como uma âncora sensorial no "aqui e agora".
+
 **Reserva Cognitiva:** Proteção cerebral fortalecida pelo desafio constante de aprender pontos novos, ler gráficos e resolver problemas manuais, estimulando a memória e a neuroplasticidade.
+
 **Arteterapia:** Uso de linguagens artísticas e técnicas manuais expressivas como canal terapêutico para externalizar conflitos do inconsciente, aliviar o estresse e promover a reconexão emocional.
 
 ### 1. Resumo Estruturado: Mãos que Curam a Mente
 
 Em um mundo acelerado e hiperconectado, onde a urgência constante e a exposição às telas geram fadiga digital e estresse frequente, o fazer manual deixou de ser visto como um simples passatempo ocupacional para se consolidar como um verdadeiro santuário de preservação emocional. Enquanto o universo virtual exige performance ininterrupta e respostas imediatas, o ato de trançar, bordar, tecer ou modelar pede presença, zelo e tempo. Essa pausa deliberada funciona como um contraponto essencial ao ruído cotidiano, transformando gestos simples em uma oportunidade concreta de desaceleração, escuta interior e reconexão pessoal.
+
 A ciência e a neurociência confirmam o que os praticantes já sentiam na pele: a criação com as mãos altera profundamente a fisiologia e a química do cérebro. A repetição cadenciada e rítmica dos movimentos manuais acalma a amígdala cerebral, desacelera a frequência cardíaca e reduz os níveis sanguíneos do hormônio do estresse (o cortisol), ao mesmo tempo em que estimula a liberação de neurotransmissores como a dopamina e a serotonina. Essa imersão tátil induz a mente a estados de atenção plena (mindfulness) e fluxo (flow), nos quais as preocupações diárias e a autocrítica se silenciam, aliviando de forma direta os sintomas de ansiedade, depressão e esgotamento mental.
+
 Para além do relaxamento imediato, o trabalho manual atua como um poderoso catalisador de reconstrução interna, restaurando a autoestima, a autonomia e o sentimento de eficácia pessoal. Ver uma peça ganhar forma a partir do zero ativa o sistema de recompensa cerebral a cada etapa concluída, nutrindo um ciclo sustentável de resiliência e autocompaixão. Além disso, ao introduzir desafios constantes e o aprendizado de técnicas complexas, a prática estimula a neuroplasticidade e fortalece a reserva cognitiva do cérebro, provando que, ao entrelaçarmos fios, linhas ou argila, estamos, na verdade, tecendo a nossa própria cura e saúde mental.
 
 
@@ -58,8 +64,8 @@ Para além do relaxamento imediato, o trabalho manual atua como um poderoso cata
 
 Aqui estão prompts estratégicos que criei e que você pode usar no NotebookLM para continuar estudando:
  
- *"Aja como um professor de artes manuais. Me dê 3 ideias de projetos de artesanato para iniciantes, focados estritamente em acalmar a mente e fáceis de fazer."*
+* *"Aja como um professor de artes manuais. Me dê 3 ideias de projetos de artesanato para iniciantes, focados estritamente em acalmar a mente e fáceis de fazer."*
  
 * *"Explique a relação entre trabalhos manuais repetitivos e a redução do cortisol, citando estudos científicos ou fontes confiáveis."*
 
-* Elabore um protocolo simples de 5 minutos de atenção plena (mindfulness) ancorado no fazer macrame para praticar no dia a dia. Liste dicas práticas para cada ação e explique cada uma delas.
+* *Elabore um protocolo simples de 5 minutos de atenção plena (mindfulness) ancorado no fazer macrame para praticar no dia a dia. Liste dicas práticas para cada ação e explique cada uma delas.*
